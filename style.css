@@ -99,7 +99,7 @@ nav .nav-right .nav-button-container {
     font-size:  1.2rem;
     margin: 15px 0px;
 }
-.title-section .title-container.fa-solid fa-shield-blank p{
+.title-section .title-container.fa-solid-fa-shield-blank .p{
     width: 300px;
     display: flex;
     justify-content: space-between;
